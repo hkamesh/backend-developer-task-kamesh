@@ -158,24 +158,3 @@ This backend can easily scale using:
 
 ---
 
-## Submission
-
-Send your:
-
-*  GitHub Repo link
-*  Postman collection
-*  Log files
-
-To:
-
-```
-saami@bajarangs.com  
-nagasai@bajarangs.com  
-chetan@bajarangs.com  
-(CC: sonika@primetrade.ai)
-```
-
-**Subject:** Backend Developer Task – Kamesh H
-
----
-
